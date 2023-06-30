@@ -31,7 +31,7 @@ const Thanks = ({ show, data, available }) => {
             <CardMedia
               component="img"
               height="400"
-              image="https://imgur.com/undefined.jpg"
+              image="https://wallpapers.com/images/featured/vmdj9lfm2un8rji3.jpg"
               alt="Tớ ngồi code sml"
             />
           </CardActionArea>
