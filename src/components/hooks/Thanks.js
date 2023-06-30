@@ -31,7 +31,7 @@ const Thanks = ({ show, data, available }) => {
             <CardMedia
               component="img"
               height="400"
-              image="https://www.macmillandictionary.com/external/slideshow/thumb/Grey_thumb.png"
+              image="https://imgur.com/undefined.jpg"
               alt="Tớ ngồi code sml"
             />
           </CardActionArea>
