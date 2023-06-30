@@ -47,7 +47,7 @@ const MusicPlayer = () => {
       <CardMedia
           component="img"
           sx={{ width: {md:"250px",xs:"100%"}, borderRadius: 1 , aspectRatio:"1/1"}}
-          image="https://www.macmillandictionary.com/external/slideshow/thumb/Grey_thumb.png"
+          image="https://imgur.com/PDsEqdd.jpg"
           alt="Ngọt"
         />
         </CardActionArea>
@@ -68,7 +68,7 @@ const MusicPlayer = () => {
               sx={{mt:'1em'}}
               component="div"
             >
-              Thay nhạc của cậu vào đây này
+             youtube.com/watch?v=kSjj0LlsqnI&pp=ygUMbOG6p24gY3Xhu5Fp
             </Typography>
           </CardContent>
           <Box sx={{ display: "flex", alignItems: "center", pl: {md:1, xs:0}, pb: 1}}>
