@@ -31,7 +31,7 @@ const Letter = ({ show, data, showLetter }) => {
                     Gửi {dc.myself}
                     <br/>
                     <br/>
-                    Qua những lần gặp gỡ, ít nhiều, hoặc là tớ chỉ mới quen cậu được vài hôm thui. Tớ chấm cậu được {data.handsome} điểm đó. Mà thôi, cảm nhận của tớ về cậu này: 
+                    Qua những lần gặp gỡ. Tớ chấm cậu được {data.handsome} điểm đó. Mà thôi, cảm nhận của tớ về cậu này: 
                     <br/>
                     {data.about}
                     <br/>
