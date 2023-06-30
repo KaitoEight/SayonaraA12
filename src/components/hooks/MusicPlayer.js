@@ -79,7 +79,7 @@ const MusicPlayer = () => {
               Replay
             </Button>
             <Button sx={{ml:'1em'}} variant="outlined" color="success" onClick={() => {window.open("play list của cậu", "_blank")}}>
-              www.youtube.com/watch?v=kSjj0LlsqnI&pp=ygUMbOG6p24gY3Xhu5Fp
+              nút thừa
             </Button>
           </Box>
         </Box>
