@@ -68,7 +68,7 @@ const MusicPlayer = () => {
               sx={{mt:'1em'}}
               component="div"
             >
-             youtube.com/watch?v=kSjj0LlsqnI&pp=ygUMbOG6p24gY3Xhu5Fp
+             Kiến bâu nhạc ngọt
             </Typography>
           </CardContent>
           <Box sx={{ display: "flex", alignItems: "center", pl: {md:1, xs:0}, pb: 1}}>
@@ -79,7 +79,7 @@ const MusicPlayer = () => {
               Replay
             </Button>
             <Button sx={{ml:'1em'}} variant="outlined" color="success" onClick={() => {window.open("play list của cậu", "_blank")}}>
-              Playlist
+              www.youtube.com/watch?v=kSjj0LlsqnI&pp=ygUMbOG6p24gY3Xhu5Fp
             </Button>
           </Box>
         </Box>
